@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+    text-align: center;
+   
+}
+
+.navbar-nav .nav-link,
+.navbar-brand {
+  text-align: center;
+  justify-content: center;
+}

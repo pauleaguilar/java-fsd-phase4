@@ -1,0 +1,61 @@
+.mr-auto {
+    margin-right: 0 !important;
+}
+
+.carousel {
+    width:80%;
+    height:auto;
+    margin: auto;
+    border: 0ch;
+  }
+  body {
+    background: grey  no-repeat fixed center;
+  }
+
+  .navbar-inner {
+    border-radius: 0;
+    margin: -20px 0;
+  }
+
+  .nav {
+    display: inline-block;
+}
+
+#about {
+    color: white;
+}
+
+.thumbnail {
+    border-color: black;
+    border-width: 2cm;
+}
+
+.caption {
+    text-align: center;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.col-md-7 {
+    justify-content: center;
+    border-radius:10px;
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    background-color:rgb(37, 35, 35);
+}
+
+form {
+    display:block;
+    text-align:center;
+    border:1px solid;
+    padding:10px;
+
+}
+
+h3 {
+    color:white
+}
